@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+}
+.toanbai{
+    width: 100%;
+    height: 1000px;
+}
+.phan1{
+    background-color: #012951;
+    width: 100%;
+    height: 40px;
+    border-bottom: 4px solid gray;
+}
+.baoquanh1{
+    width: 1400px;
+    margin: auto;
+    color: #fff;
+    padding-top:10px ;
+}
+.lienhe{
+    
+    width: 700px;
+    float: left;
+    
+}
+.danhsach{
+    
+    width: 700px;
+    float: left;
+}
+.danhsach li{
+    display: inline-block;
+    margin-left: 10px;
+}
+.phan2{
+    width: 100%;
+    height: 70px;
+    background-color: #012951;
+    padding-top: 20px;
+}
+.ds1{
+    padding-left: 225px;
+}
+.phan3{
+    width: 100%;
+    background-color: rgb(25, 25, 116);
+    height: 300px;
+    margin-bottom: 70px;
+}
+.baoquanh3{
+    width: 1400px;
+    
+    height: 330px;
+    margin: auto;
+    padding-top: 30px;
+}
+.baoquanh3 .anh{
+    width: 700px;
+    height: 330px;
+    
+    float: left;
+}
+.baoquanh3 .anh img{
+    width: 600px;
+    height: 330px;
+   
+}
+.ketnoi
+{
+    width: 700px;
+    height: 330px;
+    float: left;
+    
+}
+.ketnoi h3{
+    color: #fff;
+    font-size: 50px;
+    margin-bottom:40px ;
+}
+input[type="text"],
+input[type="number"]{
+    width: 300px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(57, 57, 95);
+    border: none;
+}
+::placeholder
+{
+    padding-left: 10px;
+    font-size: 20px;
+
+}
+.ketnoi .nut
+{
+    margin-left: 560px;
+    padding: 5px 10px;
+    background-color: rgb(25, 25, 116) ;
+    color: red;
+    border: 2px solid red;
+}

@@ -1,0 +1,306 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+    color: #fff;
+}
+a:hover
+{
+    color: red;
+}
+#all-full {
+    color: aliceblue;
+    background-image: url(img/background.png);
+}
+#hotline .list-line{
+    padding: 10px;
+    /* background-color: aqua; */
+}
+#hotline .list-line li:first-child {
+    margin-right: 755px;
+}
+#hotline .list-line li:last-child {
+    margin: none ;
+}
+#menu .list-infor {
+    padding: 25px;
+}
+#menu .list-infor li:first-child {
+    margin-right: 250px;
+}
+#all-full ul li {
+    display: inline-block;
+    margin-right: 30px;
+}
+#all-full ul{
+    margin: auto;
+    width: 1400px;
+}
+#hotline {
+    border-bottom: 1px solid gray ;
+}
+#contact {
+    padding-top: 20px;
+    color: aliceblue;
+    background-color: rgb(25, 25, 116);
+    height: 340px;
+    margin-bottom: 50px;
+}
+.in-contact {
+    margin: auto;
+    width: 1400px;
+}
+.form .para {
+    font-size: 50px ;
+    margin-bottom: 30px;
+}
+#contact .s-image {
+    float: left;
+    margin-right: 40px;
+
+}
+#contact .s-image img {
+    width: 650px;
+}
+input[type="text"],
+input[type="email"],
+input[type="number"] {
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-right: 23px;
+    background-color: rgb(57, 57, 95);
+    border: none;
+}
+::placeholder {
+    padding: 5px;
+}
+.form button {
+    font-size: 20px;
+    background-color: rgb(25, 25, 116);
+    margin-left: 520px;
+    color:red;
+    padding: 7px;
+    border: 1px solid red;
+}
+.form button a
+{
+    color: red;
+}
+#even {
+    margin: auto;
+    width: 1400px;
+    height: 450px;
+}
+#even .list-1 a
+{
+    color: black;
+}
+#even .list-1 {
+    float: left;
+    width: 450px;
+    margin-right: 35px;
+}
+#even .list-1 .text-tt{
+    margin-bottom: 45px;
+    border-bottom: 1px solid rgb(226, 226, 226);
+    padding-bottom: 10px;
+}
+#even .list-1 .input {
+    margin-bottom: 10px;
+    color: rgb(226, 226, 226);
+}
+#even h4 {
+    font-size: 30px;
+    margin-bottom: 30px;
+    position: relative;
+}
+#even h4::after {
+    content: "";
+    display: block;
+    height: 2px;
+    width: 30px;
+    margin-top: 10px;
+    background-color: blue;
+    position: absolute;
+}
+#even .list-2 a
+{
+    color: blue;
+}
+#even .list-2 {
+    float: left;
+    width: 450px;
+    margin-right: 35px;
+}
+#even .list-2 li img {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-right: 15px;
+}#even .list-2 .text-husc {
+    font-size: 20px;
+    color: rgb(43, 62, 230);
+}
+#even .list-2 .husc {
+    margin-bottom: 40px;
+    margin-top: 15px;
+    color: rgb(226, 226, 226);
+}
+#even .list-3 {
+    float: left;
+    width: 430px;
+}
+#even .list-3 img {
+    width: 430px;
+}
+#even .list-3 p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+#list-train {
+    margin: auto ;
+    width: 1400px;
+    background-color: rgb(25, 25, 116);
+    height: 270px;
+    margin-bottom: 50px;
+}
+#list-train div {
+    color: aliceblue;
+    float: left;
+    padding: 40px 30px;
+}
+#list-train .untra-list {
+    margin-left: 220px;
+    margin-right: 180px;
+
+}
+#list-train div ul {
+    list-style: disc;
+    font-size: 17px;
+    margin-left: 20px;
+    line-height: 1.7;
+}
+#list-train h3 {
+    font-size: 25px;
+    margin-bottom: 20px;
+    position: relative;
+}
+#list-train h3::after {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 30px;
+    margin-top: 10px;
+    background-color: aliceblue;
+    position: absolute;
+}
+#image {
+    margin: auto;
+    width: 1400px;
+    height: 300px;
+}
+#image .face {
+    width: 450px;
+    float: left;
+    margin-right: 40px;
+}
+#image h3 {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+#image .face img{
+    float: left;
+    margin-right: 10px;
+}
+#image .face .cntt {
+    color: rgb(150, 161, 170);
+    margin-bottom: 5px;
+}
+#image .face h4 {
+    margin-bottom: 20px;
+}
+#image .face li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+#image img {
+    width: 80px;
+    height: 80px;
+}
+#image .libry img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+#image .libry .pic1-7 {
+    width: 1300px;
+    margin-bottom: 10px;
+}
+#image .libry .pic1-7 img {
+    float: left;
+    
+}
+#image .libry .pic8-14 img {
+    float: left;
+}
+#information {
+    background-image: url(img/background.png);    
+    height: 300px;
+    color: aliceblue;
+    padding-top: 50px;
+}
+#information .on-info {
+    margin: auto;
+    width: 1400px;
+}
+#information div {
+    float: left;
+}
+#information h4 {
+    margin-bottom: 40px;
+    font-size: 20px;
+    position: relative;
+}
+#information h4::after {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 30px;
+    margin-top: 10px;
+    background-color: aliceblue;
+    position: absolute;
+}
+
+#information .info-1 {
+    width: 400px;
+}
+#information .info-2 {
+    width: 400px;
+    margin-left: 100px;
+    margin-right: 30px;
+}
+#information .info-2 ul {
+    list-style: disc;
+    margin-left: 15px;
+}
+#information .info-3 {
+    width: 400px;
+}
+#copyright {
+    background-color: blue;
+    color: aliceblue;
+}
+#copyright .in-copy {
+    margin: auto;
+    width: 1400px;
+    padding: 20px 0;
+}

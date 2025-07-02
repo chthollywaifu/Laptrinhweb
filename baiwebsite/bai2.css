@@ -1,0 +1,214 @@
+*
+{
+    margin: 0;
+}
+.noidung
+{
+    width: 1600px;
+    margin: auto;
+}
+a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.nen img
+{
+    height: 850px;
+    width: 1600px;
+    position: relative;
+}
+.hotline
+{
+    background-color: #49A333;
+    position: absolute;
+    top: 40px;
+    left: 50%;
+    font-size: 30px;
+    color: #fff;
+    padding: 20px;
+    font-weight: 600;
+}
+.logo
+{
+    position: relative;
+}
+.logo img
+{
+    position: absolute;
+    top: -840px;
+    left: 350px;
+}
+.divdk
+{
+    position: relative;
+}
+.dangky
+{
+    background-color: #678B37;
+    width: 300px;
+    color: #fff;
+    position: absolute;
+    top: -600px;
+    left: 320px;
+    padding: 30px;
+    border: 6px solid #C5D301;
+}
+.dangky h2
+{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 100;
+    margin-bottom: 40px;
+}
+.dangky p
+{
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+ margin-bottom: 10px;
+}
+.chung
+{
+    width: 300px;
+    height: 30px;
+    border: none;
+    margin-bottom: 10px;
+    border-bottom:2px solid #2D8C15 ;
+    background-color: #678B37;
+    border-top: 2px solid gray; 
+}
+.dangky input::placeholder
+{
+    color: #fff;
+}
+.nut
+{
+    color: #fff;
+    background-color: #C5D301;
+    padding: 10px 20px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.anh img
+{
+    border-radius: 10px;
+    border: 2px dashed #2D8C15;
+    margin-top: 10px;
+    width: 430px;
+    height: 330px;
+    margin-right: 20px;
+}
+.baoquanh
+{
+    width: 950px;   height: 350px;
+    margin: auto; 
+}
+.anh
+{
+    float: left;
+}
+.doanvan
+{
+    float: left;
+}
+.baoquanh h2
+{
+    text-align: center;
+    color: #678B37;
+    padding-top: 20px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+.baoquanh p
+{
+    width: 400px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.doanvan1
+{
+    float: left;
+    margin-right: 50px;
+}
+.phantiep
+{
+    background-color: #678B37;
+    padding: 20px;
+    height: 280px;
+}
+.baoquanh2 .text1
+{
+    width: 600px;
+   float: left;
+   color: #fff;
+   margin-left: 310px;
+}
+.text2 img
+{
+    width: 290px;
+    height: 250px;
+}
+.text1 h2
+{
+    
+    position: relative;
+    margin-bottom: 40px;
+}
+.text1 h2::after
+{
+    position: absolute;
+    background-color: #2D8C15;
+    height: 4px;
+    width: 570px;
+    content: "";
+    top: 40px;
+    left: 0;
+}
+.text1 p
+{
+    text-align: left;
+    font-size: 23px;
+}
+.phancuoi
+{
+    background-color: #C5D301;
+    height: 200px;
+}
+.baoquanh3
+{
+    width: 950px;
+    margin: auto;
+}
+.baoquanh3 h2
+{
+    text-align: center;
+    padding-top: 20px;
+    color: #678B37;
+    margin-bottom: 20px;
+}
+.baoquanh3 .chung1
+{
+    width: 350px;
+    float: left;
+    margin-left: 90px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    height: 25px;
+    padding-left: 10px;
+}
+.chung2
+{
+    width: 350px;
+    float: left;
+    height: 25px;
+    padding-left: 10px;
+}
+.nut1
+{
+    width: 358px;
+    float: left;
+    height: 33px;
+     color: #fff;
+     background-color: #2D8C15;
+}

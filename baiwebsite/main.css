@@ -1,0 +1,377 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+ul
+{
+    list-style:none ;
+    color: #fff;
+}
+.noidung
+{
+    width: 500px;
+    background-color: rgb(137, 161, 206);
+    margin: auto;
+    height: 840px;
+}
+.phan1 .div1
+{
+    width: 60%;
+    float: left;
+    height: 27px;
+    padding-top:2px ;
+    background-color: rgb(50, 126, 202);
+}
+.phan1 .div2
+{
+    width: 40%;
+    float: left;
+    height: 27px;
+    padding-top:2px ;
+    background-color: rgb(50, 126, 202);
+}
+.phan1 .div2 li
+{
+    display: inline-block;
+    margin-right: 5px;
+}
+.phan1 .div2 i
+{
+    font-size: 20px;
+}
+.phan1 .div2 li:first-child
+{
+   margin-left: 50px;
+}
+.phan1 .div1 span
+{
+    color: #fff;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.phan1
+{
+    background-color: rgb(50, 126, 202);
+    height: 27px;
+    
+}
+.phan2
+{
+    background-color: red;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.phan2 .div1
+{
+    background-color: dodgerblue;
+    width: 60%;
+    height: 40px;
+    float: left;
+    padding-top: 5px;
+}
+.phan2 .div2
+{
+    background-color: dodgerblue;
+    width: 40%;
+    height: 40px;
+    float: left;
+    padding-top: 5px;
+}
+.phan2 .div1 li
+{
+    display: inline-block;
+    margin-left: 20px;
+}
+.phan2 .div2 li
+{
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.phan3
+{
+    background-color: #fff;
+    height: 53px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.phan3 .div1
+{
+   
+    width: 80%;
+    float: left;
+    height: 40px;
+    border-right: 2px solid gray;
+    margin-top: 4px;
+    
+}
+.phan3 .div2
+{
+    width: 19%;
+    float: left;
+    height: 40px;
+}
+.phan3 .div1 li
+{
+    display: inline-block;
+    padding: 3px;
+    margin-left: 10px;
+    color: black;
+}
+.phan3 .div2 select
+{
+    padding: 7px;
+    border-radius:13px ;
+    margin-left: 25px;
+    margin-top: 10px;
+    color: dodgerblue;
+    border: 2px solid dodgerblue;
+}
+.phan3 p
+{
+    margin-bottom: 5px;
+}
+.phan3 .material-symbols-outlined
+{
+    color: dodgerblue;
+}
+.pd
+{
+    color: gray;
+}
+.phan4 .anh img
+{
+    width: 40px;
+    border-radius:30px ;
+    margin-left: 10px;
+}
+.phan4 .anh
+{
+    width: 10%;
+    height: 60px;
+    float: left;
+    margin-right: 10px;
+}
+.phan4 .nd
+{
+    background-color: #fff;
+    width: 50% ;
+    height: 75px;
+    margin-left: 60px;
+    padding: 5px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: 2px solid rgb(15, 146, 15);
+}
+.phan4 h2
+{
+    color:darkblue;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.nd p
+{
+    color: black;
+    margin-bottom: 5px;
+}
+.nd .tag
+{
+    color: rgb(85, 85, 228);
+}
+.nd1 .tag
+{
+    color: rgb(85, 85, 228);
+}
+.nd1 p
+{
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.nd1 h2
+{
+    color: rgb(15, 146, 15);
+    margin-bottom: 10px;
+}
+.phan4 .gio
+{
+    color: gray;
+}
+.phan4 .gach
+{
+    font-weight: 600;
+    position: relative;
+}
+.phan4 .gach::after
+{
+    background: rgb(88, 88, 172);
+    position: absolute;
+    content: "";
+    width: 3px;
+    height: 50px;
+    left: -10px;
+}
+.baoquanh 
+{
+    width: 100%;
+}
+.phan4 .nd1
+{
+    color: black;
+    background-color: #fff;
+    margin-top: 5px;
+    width: 60% ;
+    height: 120px;
+    margin-left: 60px;
+    padding: 5px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: 2px solid rgb(15, 146, 15);
+}
+.nd2
+{
+    color: black;
+    background-color: #fff;
+    margin-top: 5px;
+    width: 13% ;
+    height: 40px;
+    margin-left: 60px;
+    padding: 10px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: 2px solid rgb(15, 146, 15);
+}
+.nd2 p
+{
+    margin-bottom: 5px;
+}
+.phan4 .khoa
+{
+    
+    margin-top: 5px;
+    color: black;
+    background-color: #fff;
+    width: 30% ;
+    height: 60px;
+    margin-left: 60px;
+    padding: 5px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: 2px solid rgb(15, 146, 15);
+}
+.khoa h2
+{
+    margin-bottom: 5px;
+    color: darkblue;
+}
+.khoa p
+{
+    margin-bottom: 5px;
+}
+.me
+{
+    background-color: rgb(140, 248, 250);
+    width: 30%;
+    padding: 6px;
+    border-radius: 7px;
+    margin-left: 65%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    right: 10px;
+    height: 35px;
+}
+.me p
+{
+    margin-bottom: 5px;
+}.baoquanh1
+{
+    width: 100%;
+    margin-right: 30px;
+}
+.phan4 .khoa1
+{
+    margin-top: 5px;
+    color: black;
+    background-color: #fff;
+    width: 13% ;
+    height: 40px;
+    margin-left: 60px;
+    padding: 5px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: 2px solid rgb(15, 146, 15);
+}
+.baoquanh1 div:last-child
+{
+    width: 13%;
+    margin-left: 82%;
+}
+.khoa1 p
+{
+    margin-bottom: 5px;
+}
+.phan5
+{
+    background-color: red;
+}
+.phan5 .div1
+{
+    background-color:#fff;
+    width: 60%;
+    padding-top: 10px;
+    float: left;
+    padding-top: 10px;
+    height: 36px;
+}
+.phan5 .div1 li
+{
+    display: inline-block;
+    position: relative;
+    margin-left: 14px;
+    font-size: 20px;
+    color: gray;
+}
+
+.phan5 .div1 span
+{
+    position: absolute;
+    bottom: -6px;
+    left: -10px;
+    
+}
+.phan5 .div2
+{
+    height: 36px;
+    padding-top: 10px;
+    width: 40%;
+    background-color: #fff;
+    float: left;
+}
+.phan5 .div2 li
+{
+    display: inline-block;
+    margin-left: 15px;
+    color: gray;
+}
+.phan5 .div2 li:first-child
+{
+    margin-left: 50px;
+}
+.phan5 .div2 span
+{
+    font-size: 32px;
+}
+.phan6
+{
+    background-color:#fff;
+    float: left;
+    width: 100%;
+}
+.phan6 .chung
+{
+    padding-top: 15px;
+    width: 33%;
+    float: left;
+    text-align: center;
+}
